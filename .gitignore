@@ -1,0 +1,24 @@
+# Entorno virtual
+venv/
+.env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+*.swp
+
+# Configuración de editor
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/config.toml
